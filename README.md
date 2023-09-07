@@ -14,7 +14,7 @@ I'm Zinedine, I'm from France and I'm a last year computer science enginnering s
 ### Software engineering
 - [letsgo-biking](https://github.com/ZinedineChelgham/letsgo-biking)
 - [spring-micro-services-multifidelity-card](https://github.com/ZinedineChelgham/micro-services-multi-fidelity-card)
-- [hibernate-alert-system]()
+- [hibernate-alert-system](https://github.com/ZinedineChelgham/alert-system)
 - [multi-thread-crowd-simulation](https://github.com/ZinedineChelgham/projet-concu)
 
 ### Game dev
