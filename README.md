@@ -12,13 +12,15 @@ I'm Zinedine, I'm from France and I'm a last year computer science enginnering s
 - [translation-app]()
 
 ### Software engineering
-- [alert-system]
-- [letsgo-biking]
-- [cookie-factory]
-- [concurrency-simulation]
+- [letsgo-biking](https://github.com/ZinedineChelgham/letsgo-biking)
+- [spring-micro-services-multifidelity-card](https://github.com/ZinedineChelgham/micro-services-multi-fidelity-card)
+- [hibernate-alert-system]()
+- [multi-thread-crowd-simulation](https://github.com/ZinedineChelgham/projet-concu)
 
 ### Game dev
-- [unity-little-princess-journey]
-- [chess-game]
+- [unity-little-princess-journey](https://github.com/IHM-MONDE-VIRTUEL/La-Petite-Princess)
+- [chess-game](https://github.com/ZinedineChelgham/Chess-Game)
 
 ### Mobile app
+- [dont-waste-it](https://github.com/IHM-SI3/Repo-ihm)
+- [wise-at-math](https://github.com/ZinedineChelgham/Mobile-DUT)
