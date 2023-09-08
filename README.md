@@ -21,7 +21,7 @@ I'm Zinedine, I'm from France and I'm a last year computer science enginnering s
 - [unity-little-princess-journey](https://github.com/IHM-MONDE-VIRTUEL/La-Petite-Princess)
 - [chess-game](https://github.com/ZinedineChelgham/Chess-Game)
 
-### Mobile app
+### Mobile (android studio)
 - [dont-waste-it](https://github.com/IHM-SI3/Repo-ihm)
 - [wise-at-math](https://github.com/ZinedineChelgham/Mobile-DUT)
 
