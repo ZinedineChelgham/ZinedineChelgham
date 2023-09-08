@@ -9,7 +9,7 @@ I'm Zinedine, I'm from France and I'm a last year computer science enginnering s
 - [angular-quizz](https://github.com/ZinedineChelgham/QuizzForSeniorss)
 - [prompt-paradise](https://github.com/ZinedineChelgham/promptParadise)
 - [fractal-visualisation](https://github.com/ZinedineChelgham/Fractal-Visualisation)
-- [translation-app]()
+- [translation-app](https://github.com/ZinedineChelgham/translation-mapping-table)
 
 ### Software engineering
 - [letsgo-biking](https://github.com/ZinedineChelgham/letsgo-biking)
@@ -24,3 +24,5 @@ I'm Zinedine, I'm from France and I'm a last year computer science enginnering s
 ### Mobile app
 - [dont-waste-it](https://github.com/IHM-SI3/Repo-ihm)
 - [wise-at-math](https://github.com/ZinedineChelgham/Mobile-DUT)
+
+### AI
