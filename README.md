@@ -1,7 +1,7 @@
 # Hi there 👋
 I'm Zinedine, I'm from France and I'm a last year computer science enginnering student
 
-## Some of my projects by theme ordered to most recent to oldest:   
+## Some of my projects ordered by theme and date :   
 
 ### Web dev :
 - [connect4-fullstack](https://github.com/ZinedineChelgham/connect4) (2023)
