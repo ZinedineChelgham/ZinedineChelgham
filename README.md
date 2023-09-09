@@ -26,4 +26,5 @@ I'm Zinedine, I'm from France and I'm a last year computer science enginnering s
 - [dont-waste-it](https://github.com/IHM-SI3/Repo-ihm) (2021)
 - [wise-at-math](https://github.com/ZinedineChelgham/Mobile-DUT) (2020)
 
-### AI (incoming...)
+### AI 
+(incoming...)
