@@ -4,6 +4,7 @@ I'm Zinedine, I'm from France and I'm a last year computer science enginnering s
 ## Some of my projects ordered by theme and date :   
 
 ### Web dev :
+- [nutrinfos](https://github.com/ZinedineChelgham/nutrinfos/) (2024)
 - [connect4-fullstack](https://github.com/ZinedineChelgham/connect4) (2023)
 - [prompt-paradise](https://github.com/ZinedineChelgham/promptParadise) (2023)
 - [react-countries](https://github.com/Chelgham-Zinedine/react-countries) (2022)
@@ -27,4 +28,4 @@ I'm Zinedine, I'm from France and I'm a last year computer science enginnering s
 - [wise-at-math](https://github.com/ZinedineChelgham/Mobile-DUT) (2020)
 
 ### AI 
-(incoming...)
+-[gpt-summary](https://github.com/ZinedineChelgham/gpt-summary-exercise)
