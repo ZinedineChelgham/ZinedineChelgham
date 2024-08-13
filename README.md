@@ -5,13 +5,18 @@ I'm Zinedine, I'm from France and I'm a last year computer science enginnering s
 
 ### Web dev :
 - [nutrinfos](https://github.com/ZinedineChelgham/nutrinfos/) (2024)
+- [distributed-interfaces-project-tangiLearn](https://github.com/ZinedineChelgham/distributed-interfaces-project-tangiLearn) (2024)
 - [connect4-fullstack](https://github.com/ZinedineChelgham/connect4) (2023)
 - [prompt-paradise](https://github.com/ZinedineChelgham/promptParadise) (2023)
 - [react-countries](https://github.com/Chelgham-Zinedine/react-countries) (2022)
 - [translation-app](https://github.com/ZinedineChelgham/translation-mapping-table) (2023)
 - [angular-quizz](https://github.com/ZinedineChelgham/2021-2022-ps6-QuizForSenior) (2021)
-- [fractal-visualisation](https://github.com/ZinedineChelgham/Fractal-Visualisation) (2021)
 
+
+### Dataviz
+- [PER/PFE](https://github.com/ZinedineChelgham/PER/tree/main/per-38) (2024)
+- [wasabi-viz](https://github.com/ZinedineChelgham/data-visualisation) (2024)
+- [fractal-visualisation](https://github.com/ZinedineChelgham/Fractal-Visualisation) (2021)
 
 ### Software engineering
 - [spring-micro-services-multifidelity-card](https://github.com/ZinedineChelgham/micro-services-multi-fidelity-card) (2023)
@@ -28,4 +33,4 @@ I'm Zinedine, I'm from France and I'm a last year computer science enginnering s
 - [wise-at-math](https://github.com/ZinedineChelgham/Mobile-DUT) (2020)
 
 ### AI 
--[gpt-summary](https://github.com/ZinedineChelgham/gpt-summary-exercise)
+- [gpt-summary](https://github.com/ZinedineChelgham/gpt-summary-exercise)
