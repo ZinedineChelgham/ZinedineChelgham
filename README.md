@@ -6,6 +6,7 @@ I'm Zinedine, I'm from France and I'm a last year computer science enginnering s
 ### Web dev :
 - [nutrinfos](https://github.com/ZinedineChelgham/nutrinfos/) (2024)
 - [distributed-interfaces-project-tangiLearn](https://github.com/ZinedineChelgham/distributed-interfaces-project-tangiLearn) (2024)
+- [react-chat](https://github.com/ZinedineChelgham/ReactChat) (2024)
 - [connect4-fullstack](https://github.com/ZinedineChelgham/connect4) (2023)
 - [prompt-paradise](https://github.com/ZinedineChelgham/promptParadise) (2023)
 - [react-countries](https://github.com/Chelgham-Zinedine/react-countries) (2022)
