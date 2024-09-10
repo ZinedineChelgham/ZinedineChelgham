@@ -1,5 +1,5 @@
 # Hi there 👋
-I'm Zinedine, I'm from France and I'm a last year computer science enginnering student
+I'm Zinedine, I'm from France and I'm computer science enginner 🖥️
 
 ## Some of my projects ordered by theme and date :   
 
