@@ -1,6 +1,8 @@
 # Hi there 👋
 I'm Zinedine, I'm from France and I'm computer science enginner 🖥️
 
+**Take a look to my Portfolio : https://portfolio-zinedine-chelgham.vercel.app/en**
+
 ## Some of my projects ordered by theme and date :   
 
 ### Web dev :
